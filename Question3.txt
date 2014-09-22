@@ -1,2 +1,4 @@
-Explain what a branch is, in your own words.
 
+You can use branches to work on several feature developments in a project at once. 
+
+At a certain point (ancestor) commit you can choose to create a new branch. When you create a new branch you are essentially forking your own repository. You can merge branches at a later point.
