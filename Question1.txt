@@ -1,1 +1,5 @@
-Explain what git clone does, in your own words.
+
+
+When you git clone you are essentially copying an existing remote repository, typically it’s a remote repository being copied to your local environment.
+
+When you clone a repo only the local, master branch is copied. 
